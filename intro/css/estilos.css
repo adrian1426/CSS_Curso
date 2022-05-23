@@ -1,16 +1,5 @@
-* {
-  background-color: gold;
-}
-
-#titulo {
-  color: blueviolet;
+h1,
+p {
+  color: royalblue;
   text-align: center;
-}
-
-.centrar {
-  text-align: center;
-}
-
-.texto_grande {
-  font-size: 20px;
 }
