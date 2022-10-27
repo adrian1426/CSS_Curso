@@ -11,4 +11,5 @@ div {
   width: 300px;
   outline: 10px solid #a8dadc;
   outline-offset: 10px;
+  box-sizing: border-box;
 }
