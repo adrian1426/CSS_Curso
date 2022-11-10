@@ -1,6 +1,14 @@
-body{
-    background-color: dodgerblue;
+body {
+    background: dodgerblue url("./img/fondo.png") no-repeat right top;
+    /* background-color: dodgerblue; */
+    /* background-image: url("./img/fondo.png"); */
+    /* background-repeat: no-repeat; */
+    /* background-position: right top; */
+    background-attachment: fixed;
     color: cornsilk;
-    background-image: url("./img/fondo.png");
-    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    height: 1000px;
 }
