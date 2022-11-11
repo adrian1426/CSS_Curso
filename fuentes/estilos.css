@@ -22,8 +22,12 @@ h1 {
 }
 
 .fuente_times {
-  font-family: 'Times New Roman', Times, serif;
+  font: italic small-caps bold 3vw 'Times New Roman', Times, serif;
+  /* 
   font-style: italic;
-  font-weight: bold;
   font-variant: small-caps;
+  font-weight: bold;
+  font-size: 3vw; 
+  font-family: 'Times New Roman', Times, serif;
+  */
 }
