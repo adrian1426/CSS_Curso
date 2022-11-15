@@ -8,7 +8,15 @@ p {
   display: block;
 }
 
+div {
+  visibility: hidden;
+}
+
 span {
   display: inline;
   border: 1px solid blue;
+}
+
+a {
+  display: none;
 }
