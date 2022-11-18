@@ -7,4 +7,5 @@ div {
   width: 50%;
   border: 3px solid firebrick;
   margin: auto;
+  position: static;
 }
