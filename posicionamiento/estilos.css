@@ -3,9 +3,18 @@ h1 {
   color: crimson;
 }
 
-div {
+div.relative {
+  width: 500px;
+  height: 300px;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  border: 3px solid cornflowerblue;
+}
+
+div.absolute {
   border: 3px solid firebrick;
-  position: fixed;
+  position: absolute;
   top: 0;
-  left: 0;
+  right: 0;
 }
