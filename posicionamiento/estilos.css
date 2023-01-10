@@ -7,6 +7,6 @@ div.contenedor {
   border: 3px dashed greenyellow;
   width: 30%;
   height: 100px;
-  margin: auto;
   overflow: auto;
+  float: left;
 }
