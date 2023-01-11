@@ -4,12 +4,17 @@ html {
 }
 
 body {
-  background: linear-gradient(#f72585, #3a0ca3);
+  /* background: linear-gradient(#f72585, #3a0ca3); */
+  /* background: linear-gradient(to right, #f72585, #3a0ca3); */
+  /* background: linear-gradient(#24404d, #6dbff1, black); */
+  /* background: linear-gradient(to bottom right, #f72585, #3a0ca3); */
+  /* background: linear-gradient(145deg, #f72585, #3a0ca3); */
+  background: radial-gradient(circle, #0d47a1, #42a5f5);
+  color: #f1faee;
 }
 
 h1 {
   text-align: center;
-  color: #e63946;
 }
 
 div.contenedor {
