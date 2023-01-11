@@ -19,3 +19,13 @@ div.contenedor.descendiente p {
 div.contenedor.hijo>p {
   background-color: #ffc6ff;
 }
+
+/* Solo selecciona el elemento que está después de este, solo uno */
+div.contenedor.adyacente+p {
+  background-color: #caffbf;
+}
+
+/* selecciona todos los elementos que están después de este, todos */
+div.contenedor.hermano~p {
+  background-color: #9bf6ff;
+}
